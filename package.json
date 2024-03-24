@@ -1,0 +1,26 @@
+{
+  "name": "autoprefixer",
+  "version": "1.0.0",
+  "description": "An entire web page from a given design is created in this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaffetGokcenSen/odin_landing_page_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaffetGokcenSen/odin_landing_page_project/issues"
+  },
+  "homepage": "https://github.com/SaffetGokcenSen/odin_landing_page_project#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0"
+  },
+  "browserslist": [
+    "cover 99.5%"
+  ]
+}
